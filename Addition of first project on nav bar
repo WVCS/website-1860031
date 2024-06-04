@@ -1,0 +1,30 @@
+<html>
+   <head> <link rel="stylesheet" href="style.css">
+<title> TitlePage </title>
+  </head>
+  <body>
+  <nav>
+  <li><a href="index.html"> HOME </a></li>
+  <li><a href="apps.html"> Dataset App </a></li>
+  <li><a href="apps2.html"> Dog Quiz </a></li>
+
+  </nav>
+      <center>
+    <br> 
+    <h2> MLS Team Generator (Dataset App) </h2>
+    </br> 
+   <img src="https://t3.ftcdn.net/jpg/03/15/86/16/360_F_315861649_SEDPcW32mOIlAiDd1y370qzFaZMZlA53.jpg”>
+      </center>
+  <center>
+    <iframe width="392" height="620" style="border: 0px;" src=“https://studio.code.org/projects/applab/OGtJTwHfm5pZ7WG69dAnDRQVt_g6DQGc5GaISisRfNQ”></iframe>
+  </center>
+<style>
+   h2 {
+  Color: black;
+  text-decoration: underline;
+   }
+body {
+  background-color: antiquewhite;
+</style>
+</html>
+
