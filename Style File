@@ -1,0 +1,23 @@
+nav {
+  list-style-type: none;
+  background-color: antiquewhite;
+  position: fixed;
+  width: 100vw;
+  top:0;
+  left: 0;
+  padding: 8px;
+  color: #218380;
+  text-align: center;
+}
+li{
+  display: inline;
+  padding: 18px;
+}
+li:hover {
+  background-color: antiquewhite;
+}
+a{
+  text-decoration: none;
+  color: #218380;
+}
+
